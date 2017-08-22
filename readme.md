@@ -1,5 +1,5 @@
 ﻿# opsout
-Quit chasing folks to see if something needs a deployment.
+Quit chasing folks to see if something needs a deployment. -OR- My goal to keep ops out of my day.
 
 ## Purpose
 This application is meant to simplify looking at multiple Bamboo deployments and visually comparing versions across environments.
