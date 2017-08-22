@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!--Base url for bamboo, i.e. http://bamboo.mycompany.com -->
+    <add key="bamboo.url" value=""></add>
+    <!--User name to emulate, i.e. automation.user -->
+    <add key="bamboo.user" value=""></add>
+    <!--Password for user above, i.e. supersecret123-->
+    <add key="bamboo.password" value=""></add>
+  </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
