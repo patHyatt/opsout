@@ -1,6 +1,9 @@
 ﻿# opsout
 Quit chasing folks to see if something needs a deployment. -OR- My goal to keep ops out of my day.
 
+![opsout sample output](https://raw.githubusercontent.com/patHyatt/opsout/master/opsout.PNG)
+
+
 ## Purpose
 This application is meant to simplify looking at multiple Bamboo deployments and visually comparing versions across environments.
 With opsout, you provide a plan key and the environments to compare, and you'll get a simple green or red output indicating if any upper environments *require deployment.
