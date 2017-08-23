@@ -8,6 +8,8 @@ With opsout, you provide a plan key and the environments to compare, and you'll 
 *require deployment means, the deployed version differs from the lowest environment.
 
 ## Use
+First, copy, paste, and rename App.config.template to App.config and add your Bamboo server url, user and password to the .config.
+
 opsout.exe {planId}|{environment1},{environment2}[,{environmentN}]
 
 For provided a planId(s), will output a green (versions are the same) entry or red (versions differ) between environment1 and subsequent environments.
